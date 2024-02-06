@@ -52,4 +52,5 @@ class EstateProperty(models.Model):
         help='Which direction the garden is orientated'
     )
     property_type_id = fields.Many2one("estate.property.type", string="Type")
-
+    salesperson_id = fields.Many2one("", string="Type")
+    buyer_id = fields.Many2one("", string="Type")

@@ -25,6 +25,7 @@
                     <notebook >
                         <page string="Description">
                             <group class="ml16">
+                                <field name="property_type_id"/>
                                 <field name="bedrooms"/>
                                 <field name="living_area"/>
                                 <field name="facades"/>
@@ -32,6 +33,12 @@
                                 <field name="garden"/>
                                 <field name="garden_area"/>
                                 <field name="garden_orientation"/>
+                            </group>
+                        </page>
+                        <page string="Other Info">
+                            <group class="ml16">
+                                <field name="salesperson_id"/>
+                                <field name="buyer_id"/>
                             </group>
                         </page>
                     </notebook>
