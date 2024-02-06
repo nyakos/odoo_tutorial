@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<odoo>
+    <menuitem
+        name="Real Estate"
+        id="menu_main_estate"
+        web_icon="industry_fsm,static/description/icon.png"
+    >
+        <menuitem
+            name="Advertisement"
+            id="menu_estate_advertisement"
+        >
+            <menuitem
+                name="Properties"
+                id="menu_estate_properties"
+                action="estate_model_action"
+            />
+        </menuitem>
+                <menuitem
+            name="Settings"
+            id="estates_settings"
+        >
+            <menuitem
+                name="Property Types"
+                id="estates_settings_property_types"
+                action="estate_property_type_action"
+            />
+        </menuitem>
+    </menuitem>
+</odoo>
