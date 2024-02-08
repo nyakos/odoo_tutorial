@@ -1,3 +1,4 @@
+id,bedrooms,living_area,facades,garden_area,property_type_id,salesperson_id,buyer_id,create_uid,write_uid,name,postcode,garden_orientation,state,date_availability,garage,garden,acive,create_date,write_date,expected_price,selling_price
 6,200,300,0,52609,5,2,19,2,2,My Windsor 1,SL4 1NJ,east,offer_received,2024-05-06,true,true,true,2024-02-06 15:06:16.016658,2024-02-06 15:24:25.667936,1535000,0
 1,2,1,0,350,1,2,18,2,2,House in Leipzig,55464,south,new,2024-05-06,true,true,true,2024-02-06 14:37:59.598169,2024-02-06 15:43:53.945480,50000,
 8,3,1,0,220,1,6,26,2,2,House in Budapest,59864,north,offer_received,2024-05-06,true,true,true,2024-02-06 15:06:16.016658,2024-02-06 15:26:49.445246,75000,0
