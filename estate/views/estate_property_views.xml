@@ -19,6 +19,7 @@
                         </group>
                         <group class="flex-grow-1">
                             <field name="expected_price"/>
+                            <field name="best_offer"/>
                             <field name="selling_price"/>
                         </group>
                     </div>
